@@ -1,6 +1,7 @@
 # Agile-Task-Management-System
 
-Technologies used : Eclipse IDE, PHP, HTML, CSS, Bootstrap, AJAX, MySQL/Wampserver for database
+Technologies used : Eclipse IDE, PHP, HTML, CSS, Bootstrap, AJAX, MySQL/Wampserver for database.
+
 Designed the website in order to allow administrator:
 1) To add new projects
 2) Assign employees to project
