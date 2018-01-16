@@ -1,0 +1,68 @@
+.login-form {
+	text-align:center;
+}
+.login-style input {
+	position: relative;
+	width: 20%;
+	font: 16px/1.5 DNLTR;
+	margin: 5px 0 0 0;
+	padding: 6px 0 5px 1%;
+	border: none;
+	height: 40px;
+	border-radius: 5px;
+	border: 1px solid #e1e2e3;
+	z-index: 1;
+	box-shadow: none;
+}
+.login-style textarea {
+	position: relative;
+	font: 16px/1.5 DNLTR;
+	margin: 5px 0 0 0;
+	padding: 6px 0 5px 1%;
+	border: none;
+	border-radius: 5px;
+	border: 1px solid #e1e2e3;
+	z-index: 1;
+	box-shadow: none;
+}
+
+
+h1 {
+	font: 35px/1 DNLTL;
+	font-family: "Segoe UI",Arial,sans-serif;
+	margin: 7% 0 40px 0;
+}
+.loginmsg
+{
+	color:red;
+}
+.error {color: #FF0000;}
+
+/* table {
+    width:60%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t01 th {
+    background-color: black;
+    color: white;
+}
+#hometable {
+	margin: 10% 0 0 20;
+} */
+
+.topnav {    
+    font-size: 25px;    
+}
